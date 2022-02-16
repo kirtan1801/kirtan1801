@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kirtan1801
-- 👀 I’m interested in VLSI Technology
-- 🌱 I’m currently learning VLSI CAD tools
-- 💞️ I’m looking to collaborate on VHDL/ VLSI design
+- 👀 I’m interested in Application developement
+- 🌱 I’m currently learning Flutter and Java
+- 💞️ I’m looking to collaborate on Flutter or Java
 - 📫 How to reach me : kachhatrala18@gmail.com
 
 <!---
