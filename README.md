@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kirtan1801
-- 👀 I’m interested in Application developement
-- 🌱 I’m currently learning Flutter and Java
-- 💞️ I’m looking to collaborate on Flutter or Java
+- 👀 I’m interested in Application developement and DevOps
+- 🌱 I’m currently learning DevOps tools
+- 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me : kachhatrala18@gmail.com
 
 <!---
