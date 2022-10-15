@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kirtan1801
-- 👀 I’m interested in Application developement and DevOps
-- 🌱 I’m currently learning DevOps tools
-- 💞️ I’m looking to collaborate on DevOps
+- 👀 I’m interested in Backend Development (Node JS)
+- 🌱 I’m currently learning Node JS
+- 💞️ I’m looking to collaborate on Node JS
 - 📫 How to reach me : kachhatrala18@gmail.com
 
 <!---
