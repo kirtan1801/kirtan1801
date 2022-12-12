@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=blueviolet&style=plastic&logo=vscode" />&nbsp;
 </div>
 
- # GitHub Stats: #
+ # <img src="https://github.com/jabedzaman/readme-logos/blob/main/assets/cloud/github.svg" title="GitHub" alt="VSCode" width="40" height="40"/>&nbsp; GitHub Stats: #
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kirtan1801&theme=dark&show_icons=true&&hide=issues)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan1801&layout=compact&theme=dark&show_icons=true)](https://github.com/kirtan1801/github-readme-stats)
