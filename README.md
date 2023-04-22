@@ -2,8 +2,6 @@
 - *👀 I’m interested in* ***Node JS***
 - *🌱 I’m currently learning*  ***Node JS***
 - *💞️ I’m looking to collaborate on* ***Node JS***
-- 📧 How to reach me on mail : kachhatrala18@gmail.com 
-- 📫 How to reach me on LinkedIn : https://www.linkedin.com/in/kirtanchhatrala/
 
  # :hammer_and_wrench: Languages and Tools : #
  <div>
