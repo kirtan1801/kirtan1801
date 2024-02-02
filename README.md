@@ -1,7 +1,26 @@
- # 👋 Hi, I’m @kirtan1801
-- *👀 I’m interested in* ***Node JS***
-- *🌱 I’m currently learning*  ***Node JS***
-- *💞️ I’m looking to collaborate on* ***Node JS***
+# Kirtan's GitHub Profile
+👋 Hello there! I'm Kirtan, a Node.js Developer with 3 years of experience. Welcome to my GitHub profile.
+
+## About Me
+- 🔭 I’m currently working on Node.js and Typescript.
+- 🌱 I’m always learning and staying up-to-date with the latest technologies.
+- 💬 Ask me about anything related to Node.js, JavaScript, TypeScript, Sequelize, MySQL, MongoDB, Postman, and AWS.
+
+## Tech Stack
+
+- **Languages:** JavaScript, TypeScript
+- **Databases:** MongoDB, MySQL
+- **ORM:** Sequelize
+- **Tools:** Postman
+- **Cloud Services:** AWS
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/kirtanchhatrala/)
+
+## Get in Touch
+Feel free to reach out if you have any questions or if you'd like to collaborate on a project. I'm always open to new opportunities and discussions.
+
+📧 Email: kachhatrala18@gmail.com
 
  # :hammer_and_wrench: Languages and Tools : #
  <div>
