@@ -4,15 +4,16 @@
 ## About Me
 - 🔭 I’m currently working on Node.js and Typescript.
 - 🌱 I’m always learning and staying up-to-date with the latest technologies.
-- 💬 Ask me about anything related to Node.js, JavaScript, TypeScript, Sequelize, MySQL, MongoDB, Postman, and AWS.
+- 💬 Ask me about anything related to Node.js, JavaScript, TypeScript, Sequelize, PostgreSQL, MySQL, MongoDB, Postman, and Amazon Web Services.
 
 ## Tech Stack
 
 - **Languages:** JavaScript, TypeScript
-- **Databases:** MongoDB, MySQL
+- **Frameworks/Platforms**: Node.js, Express.js
+- **Databases:** PostgreSQL, MySQL, MongoDB
 - **ORM:** Sequelize
 - **Tools:** Postman
-- **Cloud Services:** AWS
+- **Cloud Services:** Amazon Web Services
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kirtanchhatrala/)
