@@ -1,18 +1,22 @@
 # Kirtan's GitHub Profile
-👋 Hello there! I'm Kirtan, a Node.js Developer with 3 years of experience. Welcome to my GitHub profile.
+### Senior Backend Engineer | Node.js | Bun | Distributed Systems | API Security
+
+👋 Hello there! I'm Kirtan, a Senior Software Engineer with 4+ years of experience. Welcome to my GitHub profile.
 
 ## About Me
-- 🔭 I’m currently working on Node.js and Typescript.
-- 🌱 I’m always learning and staying up-to-date with the latest technologies.
-- 💬 Ask me about anything related to Node.js, JavaScript, TypeScript, Sequelize, PostgreSQL, MySQL, MongoDB, Postman, and Amazon Web Services.
+- ⚡ Core Competency: Architecting relational schemas and optimizing complex queries.
+- 🚀 Focused on building scalable, high-performance APIs and reliable data flows.
+- 🔐 Strong interest in API security, access control, and OWASP practices.
+- 🛠 Comfortable working with ORMs as well as writing efficient raw SQL when performance matters.
+- 💬 Ask me about anything related to Node.js, Bun, JavaScript, TypeScript, Sequelize, Kysely, PostgreSQL, MySQL, MongoDB, Postman, and Amazon Web Services.
 
 ## Tech Stack
 
 - **Languages:** JavaScript, TypeScript
-- **Frameworks/Platforms**: Node.js, Express.js
+- **Frameworks/Platforms**: Node.js, Express.js, Fastify
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **ORM:** Sequelize
-- **Tools:** Postman
+- **ORM/Query:** Sequelize, Kysely, Raw SQL
+- **Tools:** Git, GitHub, Postman, VS Code
 - **Cloud Services:** Amazon Web Services
 
 ## Connect with Me
@@ -25,8 +29,6 @@ Feel free to reach out if you have any questions or if you'd like to collaborate
 
  # :hammer_and_wrench: Languages and Tools : #
  <div>
-<img src="https://img.shields.io/static/v1?label=Backend&message=Node JS&color=red&style=plastic&logo=Node.js" />&nbsp;
-<img src="https://img.shields.io/static/v1?label=Framework&message=Express JS&color=red&style=plastic&logo=Express" />&nbsp;
 <img src="https://img.shields.io/static/v1?label=Frontend&message=HTML&color=red&style=plastic&logo=HTML5" />&nbsp;
 <img src="https://img.shields.io/static/v1?label=Language&message=Javascript&color=Green&color=fedcba?style=plastic&logo=Javascript" />&nbsp;
 <img src="https://img.shields.io/static/v1?label=Language&message=Python&color=Green?style=plastic&logo=Python" />&nbsp;
